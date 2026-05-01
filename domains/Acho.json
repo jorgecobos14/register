@@ -1,0 +1,12 @@
+{
+  "description": "ACHO - Social chat app",
+  "domain": "is-a.dev",
+  "subdomain": "acho",
+  "owner": {
+    "username": "jorgecobos14",
+    "email": "mariadolores2140@gmail.com"
+  },
+  "record": {
+    "CNAME": "815b2d74-db89-4c03-8f45-eba7b5177ea8.cfargotunnel.com"
+  }
+}
